@@ -1,10 +1,10 @@
 # MVP primitivo de NEXT4
 ## _proyecto primitivo del MVP de NEXT4.cl_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 ## VERSION de Python
-PYTHON -V 3.9.5
+![PYTHON -V 3.9.5](https://www.python.org/downloads/release/python-395/)
 
 ## PASOS A SEGUIR:
 
