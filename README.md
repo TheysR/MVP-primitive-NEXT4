@@ -18,11 +18,23 @@
 ```sh
 ex: git clone https://github.com/andreslool/MVP-primitive-NEXT4.git
 ```
-- ejecutar el siguiente comando:
+- instalar la libreria virtualenv (opcional) con el siguiente comando:
+```sh
+ex: pip install virtualenv
+```
+- para iniciarlo deberas primero crear un entorno virtual con el siguiente comando:
+```sh
+ex: virtualenv env
+```
+- luego activar el entorno virtual con el siguiente comando:
+```sh
+ex: env\scripts\activate
+```
+- instalar las librerias (en el entorno virtual) que se usaron para el proyecto:
 ```sh
 ex: "pip install -r requirements.txt"
 ```
-- Luego de haberse instalado las librerias necesarias, ejecutar el programa save_orders
+- Luego de haberse instalado las librerias necesarias, ejecutar el programa save_orders:
 ```sh
 ex: "python save_orders.py"
 ```
