@@ -16,19 +16,19 @@
 - Posicionarse desde el CMD (terminal de la consola) en la carpeta donde quieres que viva el proyecto en tu local, en caso de no tener una, crearla
 - clonar el repositorio github con el siguiente comando:
 ```sh
-ex: git clone https://github.com/andreslool/MVP-primitive-NEXT4.git
+ex: "git clone https://github.com/andreslool/MVP-primitive-NEXT4.git"
 ```
 - instalar la libreria virtualenv (opcional) con el siguiente comando:
 ```sh
-ex: pip install virtualenv
+ex: "pip install virtualenv"
 ```
 - para iniciarlo deberas primero crear un entorno virtual con el siguiente comando:
 ```sh
-ex: virtualenv env
+ex: "virtualenv env"
 ```
 - luego activar el entorno virtual con el siguiente comando:
 ```sh
-ex: env\scripts\activate
+ex: "env\scripts\activate"
 ```
 - instalar las librerias (en el entorno virtual) que se usaron para el proyecto:
 ```sh
