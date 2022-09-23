@@ -4,7 +4,7 @@
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 ## VERSION de Python
-[![PYTHON -V 3.9.5](https://www.python.org/static/img/python-logo@2x.png)](https://www.python.org/downloads/release/python-395/)
+[![PYTHON -V 3.9.5](https://pypi.org/static/images/logo-small.95de8436.svg)](https://www.python.org/downloads/release/python-395/)
 
 ## PASOS A SEGUIR:
 
