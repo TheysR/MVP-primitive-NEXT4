@@ -1,11 +1,11 @@
 # MVP primitivo de NEXT4
 ## _proyecto primitivo del MVP de NEXT4.cl_
 
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://next4.cl/)
 
 # REQUISITOS PREVIOS A INSTALAR
 ## INSTALLER DE GIT
-[![GIT INSTALLER](https://git-scm.com/images/logo@2x.png)](https://git-scm.com/downloads)
+[![GIT INSTALLER](https://git-scm.com/images/logo.png)](https://git-scm.com/downloads)
 
 ## INSTALLER de Python -V 3.9.5
 [![PYTHON -V 3.9.5](https://pypi.org/static/images/logo-small.95de8436.svg)](https://www.python.org/downloads/release/python-395/)
